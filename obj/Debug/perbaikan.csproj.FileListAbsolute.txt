@@ -1,0 +1,15 @@
+C:\Users\ilhamm\Desktop\project c#\Atm\perbaikan\bin\Debug\perbaikan.exe.config
+C:\Users\ilhamm\Desktop\project c#\Atm\perbaikan\bin\Debug\perbaikan.exe
+C:\Users\ilhamm\Desktop\project c#\Atm\perbaikan\bin\Debug\perbaikan.pdb
+C:\Users\ilhamm\Desktop\project c#\Atm\perbaikan\obj\Debug\perbaikan.exe
+C:\Users\ilhamm\Desktop\project c#\Atm\perbaikan\obj\Debug\perbaikan.pdb
+C:\Users\ilhamm\Desktop\project c#\Atm\perbaikan\obj\Debug\perbaikan.csprojResolveAssemblyReference.cache
+D:\Driver\New folder\project c#\Atm\perbaikan\bin\Debug\perbaikan.exe.config
+D:\Driver\New folder\project c#\Atm\perbaikan\obj\Debug\perbaikan.exe
+D:\Driver\New folder\project c#\Atm\perbaikan\obj\Debug\perbaikan.pdb
+D:\Driver\New folder\project c#\Atm\perbaikan\bin\Debug\perbaikan.exe
+D:\Driver\New folder\project c#\Atm\perbaikan\bin\Debug\perbaikan.pdb
+D:\Driver\New folder\project c#\Atm\perbaikan\obj\Debug\perbaikan.csprojResolveAssemblyReference.cache
+D:\kuliah\semester III\project c#\Atm\perbaikan\bin\Debug\perbaikan.exe.config
+D:\kuliah\semester III\project c#\Atm\perbaikan\obj\Debug\perbaikan.exe
+D:\kuliah\semester III\project c#\Atm\perbaikan\obj\Debug\perbaikan.pdb
